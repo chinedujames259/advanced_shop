@@ -29,6 +29,7 @@ class _WelcomeState extends State<Welcome> {
                 children: [
                   Container(
                     alignment: Alignment.center,
+                    
                     child: Image.asset("lib/images/Login-PNG-Free-Image.png"),
                   ),
                   // Container(
